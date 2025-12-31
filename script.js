@@ -2,12 +2,12 @@
         // NOTE: Create a folder named 'library_files' in your root directory.
         // Place your PDF files there and update the 'pdfUrl' below to match your filenames.
         const booksDB = [
-            { id: 1, title: "The Art of Innovation", author: "Tom Kelly", category: "Business", image: "thumbnails/Screenshot 2025-10-20 131322.png", pdfUrl: "library_files/art_of_innovation.pdf" },
-            { id: 2, title: "Design for How People Think", author: "John Whalen", category: "Design", image: "thumbnails/Screenshot 2025-10-20 133026.png", pdfUrl: "library_files/design_think.pdf" },
-            { id: 3, title: "Zero to One", author: "Peter Thiel", category: "Startups", image: "thumbnails/Screenshot 2025-10-20 133112.png", pdfUrl: "library_files/zero_to_one.pdf" },
-            { id: 4, title: "Deep Work", author: "Cal Newport", category: "Productivity", image: "thumbnails/Screenshot 2025-10-20 133146.png", pdfUrl: "library_files/deep_work.pdf" },
-            { id: 5, title: "Atomic Habits", author: "James Clear", category: "Self Help", image: "thumbnails/Screenshot 2025-10-20 133215.png", pdfUrl: "library_files/atomic_habits.pdf" },
-            { id: 6, title: "Clean Code", author: "Robert Martin", category: "Technology", image: "thumbnails/Screenshot 2025-10-22 134428.png", pdfUrl: "library_files/clean_code.pdf" },
+            { id: 1, title: "Computer Networking - Principles, Protocols, and Practice", author: "Olivier Bonaveture", category: "Technology", image: "thumbnails/computer-networking.png", pdfUrl: "documents/computer-networking.pdf" },
+            { id: 2, title: "Computer networks, and Internet", author: "Gerry Howser", category: "Design", image: "thumbnails/computer-networks.png", pdfUrl: "documents/computer-networks.pdf" },
+            { id: 3, title: "Fundamentals of Information Technology", author: "Shambavi Roy, Clinto Daniel, Manish Agrawal", category: "Technology", image: "thumbnails/information-technology.png", pdfUrl: "documents/information-technology.pdf" },
+            { id: 4, title: "Introduction to Bash Scripting", author: "Bobby Iliev", category: "Productivity", image: "thumbnails/intro-to-bash.png", pdfUrl: "documents/introduction-to-bash.pdf" },
+            { id: 5, title: "Learn to Code With Scatch", author: "The MagPi Team", category: "Self Help", image: "thumbnails/learn-to-code.png", pdfUrl: "learn-to-code.pdf" },
+            { id: 6, title: "A Practical Introduction to Python Programming", author: "Brian Henold", category: "Technology", image: "thumbnails/python-programming.png", pdfUrl: "documents/python-programming.pdf" },
             { id: 7, title: "The Psychology of Money", author: "Morgan Housel", category: "Finance", image: "thumbnails/Screenshot 2025-10-23 102705.png", pdfUrl: "library_files/psych_money.pdf" },
             { id: 8, title: "Sapiens", author: "Yuval Noah Harari", category: "History", image: "thumbnails/Screenshot 2025-10-20 131322.png", pdfUrl: "library_files/sapiens.pdf" },
             { id: 9, title: "Educated", author: "Tara Westover", category: "Biography", image: "thumbnails/Screenshot 2025-10-20 133026.png", pdfUrl: "library_files/educated.pdf" },
