@@ -1,8 +1,8 @@
-# Lumina Ebooks — Digital Library Platform
+# Lumina Ebooks
 
 ## Project Overview
 
-Lumina is a sophisticated client-side digital library interface engineered to demonstrate modern front-end development methodologies for digital content management systems. This platform provides a comprehensive solution for ebook discovery, organization, and access through an intuitive, responsive interface built entirely with vanilla web technologies.
+Lumina Ebooks is a sophisticated client-side digital library interface engineered to demonstrate modern front-end development methodologies for digital content management systems. This platform provides a comprehensive solution for ebook discovery, organization, and access through an intuitive, responsive interface built entirely with vanilla web technologies.
 
 ## Live Deployment
 
