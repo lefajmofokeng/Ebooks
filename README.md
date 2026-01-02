@@ -6,7 +6,7 @@ Lumina Ebooks is a sophisticated client-side digital library interface engineere
 
 ## Live Deployment
 
-[Preview Live Demo & Download Ebooks](https://thisislefa.github.io/Ebooks)
+[Preview Live Demo & Download Ebooks](https://lefajmofokeng.github.io/Ebooks)
 
 ## Architecture & Technical Implementation
 
@@ -297,7 +297,7 @@ jobs:
 ### Local Development
 ```bash
 # Clone repository
-git clone https://github.com/thisislefa/lumina-ebooks.git
+git clone https://github.com/lefajmofokeng/lumina-ebooks.git
 cd lumina-ebooks
 
 # Install development dependencies
